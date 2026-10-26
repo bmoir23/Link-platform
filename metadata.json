@@ -1,0 +1,8 @@
+{
+  "name": "Uniate",
+  "description": "An all-in-one platform combining link management, B2B workspaces, and an autonomous AI executive assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
